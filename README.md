@@ -1,2 +1,2 @@
 # web-scraping
-this repository contains web scraping by using python , scrapy.
+this repository contains web scraping projects by using python , scrapy.
