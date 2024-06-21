@@ -23,6 +23,6 @@
 
 ## To run scraper  
  enter the following commands on the terminal
- cd bookscraper
- scrapy crawl bookspider 
+  - cd bookscraper
+   - scrapy crawl bookspider 
 
